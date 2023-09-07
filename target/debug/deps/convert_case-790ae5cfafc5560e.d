@@ -1,0 +1,11 @@
+/Users/frank/projects/learn_ts/rspc_next_template/my-app/target/debug/deps/convert_case-790ae5cfafc5560e.rmeta: /Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/lib.rs /Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/case.rs /Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/converter.rs /Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/pattern.rs /Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/segmentation.rs
+
+/Users/frank/projects/learn_ts/rspc_next_template/my-app/target/debug/deps/libconvert_case-790ae5cfafc5560e.rlib: /Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/lib.rs /Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/case.rs /Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/converter.rs /Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/pattern.rs /Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/segmentation.rs
+
+/Users/frank/projects/learn_ts/rspc_next_template/my-app/target/debug/deps/convert_case-790ae5cfafc5560e.d: /Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/lib.rs /Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/case.rs /Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/converter.rs /Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/pattern.rs /Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/segmentation.rs
+
+/Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/lib.rs:
+/Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/case.rs:
+/Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/converter.rs:
+/Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/pattern.rs:
+/Users/frank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.5.0/src/segmentation.rs:

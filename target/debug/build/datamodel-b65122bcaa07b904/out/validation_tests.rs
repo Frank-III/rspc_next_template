@@ -1,0 +1,9 @@
+#[test] fn composite_types_ignore_field_attribute_is_not_allowed() { run_validation_test("composite_types/ignore_field_attribute_is_not_allowed.prisma"); }
+#[test] fn composite_types_map_field_attribute_is_allowed() { run_validation_test("composite_types/map_field_attribute_is_allowed.prisma"); }
+#[test] fn composite_types_index_attributes_on_composite_types() { run_validation_test("composite_types/index_attributes_on_composite_types.prisma"); }
+#[test] fn composite_types_relation_field_attribute_not_allowed() { run_validation_test("composite_types/relation_field_attribute_not_allowed.prisma"); }
+#[test] fn capabilities_mongodb_supports_composite_types() { run_validation_test("capabilities/mongodb_supports_composite_types.prisma"); }
+#[test] fn capabilities_mongodb_does_not_support_autoincrement() { run_validation_test("capabilities/mongodb_does_not_support_autoincrement.prisma"); }
+#[test] fn attributes_map_mongodb_field_map_cannot_start_with_dollar_sign() { run_validation_test("attributes/map/mongodb_field_map_cannot_start_with_dollar_sign.prisma"); }
+#[test] fn attributes_map_mongodb_field_map_cannot_contain_periods() { run_validation_test("attributes/map/mongodb_field_map_cannot_contain_periods.prisma"); }
+#[test] fn attributes_map_map_must_error_for_relation_fields() { run_validation_test("attributes/map/map_must_error_for_relation_fields.prisma"); }

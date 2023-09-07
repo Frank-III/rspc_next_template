@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/frank/projects/learn_ts/rspc_next_template/my-app/target/debug/build/typenum-fc76764ab2912faa/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/frank/projects/learn_ts/rspc_next_template/my-app/target/debug/build/typenum-fc76764ab2912faa/out/op.rs

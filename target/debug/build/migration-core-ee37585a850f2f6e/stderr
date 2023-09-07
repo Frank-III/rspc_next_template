@@ -1,0 +1,18 @@
+Merging markMigrationApplied.toml
+Merging createMigration.toml
+Merging markMigrationRolledBack.toml
+Merging schemaPush.toml
+Merging dbExecute.toml
+Merging evaluateDataLoss.toml
+Merging reset.toml
+Merging createDatabase.toml
+Merging diagnoseMigrationHistory.toml
+Merging diff.toml
+Merging debugPanic.toml
+Merging applyMigrations.toml
+Merging getDatabaseVersion.toml
+Merging devDiagnostic.toml
+Merging common.toml
+Merging listMigrationDirectories.toml
+Merging ensureConnectionValidity.toml
+ok: definitions generated

@@ -1,0 +1,17 @@
+cargo:rerun-if-changed=/Users/frank/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/5bacc96/migration-engine/json-rpc-api-build/methods/markMigrationApplied.toml
+cargo:rerun-if-changed=/Users/frank/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/5bacc96/migration-engine/json-rpc-api-build/methods/createMigration.toml
+cargo:rerun-if-changed=/Users/frank/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/5bacc96/migration-engine/json-rpc-api-build/methods/markMigrationRolledBack.toml
+cargo:rerun-if-changed=/Users/frank/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/5bacc96/migration-engine/json-rpc-api-build/methods/schemaPush.toml
+cargo:rerun-if-changed=/Users/frank/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/5bacc96/migration-engine/json-rpc-api-build/methods/dbExecute.toml
+cargo:rerun-if-changed=/Users/frank/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/5bacc96/migration-engine/json-rpc-api-build/methods/evaluateDataLoss.toml
+cargo:rerun-if-changed=/Users/frank/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/5bacc96/migration-engine/json-rpc-api-build/methods/reset.toml
+cargo:rerun-if-changed=/Users/frank/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/5bacc96/migration-engine/json-rpc-api-build/methods/createDatabase.toml
+cargo:rerun-if-changed=/Users/frank/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/5bacc96/migration-engine/json-rpc-api-build/methods/diagnoseMigrationHistory.toml
+cargo:rerun-if-changed=/Users/frank/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/5bacc96/migration-engine/json-rpc-api-build/methods/diff.toml
+cargo:rerun-if-changed=/Users/frank/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/5bacc96/migration-engine/json-rpc-api-build/methods/debugPanic.toml
+cargo:rerun-if-changed=/Users/frank/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/5bacc96/migration-engine/json-rpc-api-build/methods/applyMigrations.toml
+cargo:rerun-if-changed=/Users/frank/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/5bacc96/migration-engine/json-rpc-api-build/methods/getDatabaseVersion.toml
+cargo:rerun-if-changed=/Users/frank/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/5bacc96/migration-engine/json-rpc-api-build/methods/devDiagnostic.toml
+cargo:rerun-if-changed=/Users/frank/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/5bacc96/migration-engine/json-rpc-api-build/methods/common.toml
+cargo:rerun-if-changed=/Users/frank/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/5bacc96/migration-engine/json-rpc-api-build/methods/listMigrationDirectories.toml
+cargo:rerun-if-changed=/Users/frank/.cargo/git/checkouts/prisma-engines-8e1416dd0e571d11/5bacc96/migration-engine/json-rpc-api-build/methods/ensureConnectionValidity.toml
