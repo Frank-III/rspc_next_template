@@ -4,18 +4,17 @@ members = ["prisma", "api"]
 default-members = ["api"]
 
 [workspace.dependencies]
-prisma-client-rust-cli = { git = "https://github.com/Brendonovich/prisma-client-rust.git", rev = "078919e3724f35cc00c2402c66ba585b61c88d47", features = [
-  "sqlite",
+prisma-client-rust-cli = { git = "https://github.com/Brendonovich/prisma-client-rust.git", tag = "0.6.8", features = [
+  "postgresql",
   "rspc",
   "migrations",
 ], default-features = false }
-prisma-client-rust = { git = "https://github.com/Brendonovich/prisma-client-rust.git", rev = "078919e3724f35cc00c2402c66ba585b61c88d47", features = [
-  "sqlite",
+prisma-client-rust = { git = "https://github.com/Brendonovich/prisma-client-rust.git", tag = "0.6.8", features = [
+  "postgresql",
   "rspc",
   "migrations",
 ], default-features = false }
-rspc = { version = "0.1.2", features = ["axum"] }
+rspc = { version = "0.1.3", features = ["axum"] }
 
 [workspace.metadata.pkg-config]
 openssl = "0.0.3"
-
